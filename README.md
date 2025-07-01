@@ -8,8 +8,7 @@
  ## 💻 Coding Profiles:
 
 ✅ [HackerRank (neeraj_kumar9461)](https://www.hackerrank.com/neeraj_kumar9461)<br>
-📘 [LeetCode (if you have one)](https://leetcode.com/navjot9912)<br>
-📊 [GeeksforGeeks (optional)](https://auth.geeksforgeeks.org/user/neerajkum3cli)
+📊 [GeeksforGeeks (neerajkum3cli)](https://auth.geeksforgeeks.org/user/neerajkum3cli)
 
 
 
