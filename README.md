@@ -1,6 +1,13 @@
 # 💫 About Me:
  **Passionate Java Full-Stack Developer and Problem Solver: Building Scalable Solutions and Tackling Complex Challenges.**
 
+ ## 💻 Coding Profiles
+
+- ✅ [HackerRank (neeraj_kumar9461)](https://www.hackerrank.com/neeraj_kumar9461)
+- 📘 [LeetCode (if you have one)](https://leetcode.com/navjot9912)
+- 📊 [GeeksforGeeks (optional)](https://auth.geeksforgeeks.org/user/neerajkum3cli)
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/navjot-2789ba299) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neeraj.kumar946441@gmail.com) 
